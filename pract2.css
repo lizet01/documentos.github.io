@@ -1,0 +1,22 @@
+.Imagenes{
+    height: 150px;
+    width: 15%;
+    margin: 10px;
+    
+
+}
+.titulo{
+    text-align: center;
+    color: rgb(137, 47, 12);
+    font-size: 25px;
+
+
+}
+button:hover{
+    background-color: rgb(43, 60, 142);
+    color: rgb(247, 138, 138);
+}
+button{
+    background-color: rgb(255, 142, 142);
+    color: rgb(43, 53, 137);
+}

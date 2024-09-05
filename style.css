@@ -1,0 +1,17 @@
+.imagenovalada{
+    border-radius: 15%;
+}
+.galeria{
+    margin: 5px;
+    border: 1px solid rgba(154, 97, 11, 0.594);
+    width: 200px;
+}
+.imagen{
+    width: 100%;
+    height: auto;
+}
+.textoinferior{
+    background-color: rgb(246, 36, 36);
+    text-align: right;
+    padding: 20px;
+}
